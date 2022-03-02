@@ -1,1 +1,1 @@
-# Bulls-And-Cows-Spring-Boot-REST-with-JDBC--Template
+READ DDSB word document for project info.
